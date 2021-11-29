@@ -1,0 +1,94 @@
+﻿[
+  {
+    "nombre": "Ciencias de la Computación",
+    "codigo": 2418,
+    "creditos": 139,
+    "componente": [
+      {
+        "nombre": "Fundamentación",
+        "creditos": 60,
+        "agrupacion": [
+          {
+            "nombre": "Matemáticas y estructuras discretas",
+            "obligatorios": 40,
+            "optativos": 8,
+            "asignaturas": [2015168, 2015181, 2025819, 2016377, 2015556, 2015162, 2016342, 2015155, 2015555, 2015152, 2015178, 2027312, 2015184]
+          },
+          {
+            "nombre": "Ciencias Naturales y Estadística",
+            "obligatorios": 0,
+            "optativos": 3,
+            "asignaturas": [22689, 2016651, 2015176, 1000013, 1000010, 1000041]
+          },
+          {
+            "nombre": "Programación y estructura de datos",
+            "obligatorios": 9,
+            "optativos": 0,
+            "asignaturas": [2026573, 2016375, 2016699]
+          }
+        ]
+      },
+      {
+        "nombre": "Formación Disciplinar o Profesional",
+        "creditos": 43,
+        "agrupacion":[
+          {
+            "nombre": "Algoritmos y teoría de la computación",
+            "obligatorios": 11,
+            "optativos": 3,
+            "asignaturas": [2016696, 2015174, 2026555, 2027628, 2027629, 2019267, 2021834, 2024065]
+          },
+          {
+            "nombre": "Seguridad informática y codificación",
+            "obligatorios": 0,
+            "optativos": 7,
+            "asignaturas": [2027311, 2027313, 2027310]
+          },
+          {
+            "nombre": "Sistemas operativos de cómputo y compiladores",
+            "obligatorios": 6,
+            "optativos": 3,
+            "asignaturas": [2016698, 2016697, 2016707, 2027642]
+          },
+          {
+            "nombre": "Computación científica",
+            "obligatorios": 4,
+            "optativos": 3,
+            "asignaturas": [2015150, 2026519, 2015173, 2025971, 2027630]
+          },
+          {
+            "nombre": "Computación aplicada",
+            "obligatorios": 0,
+            "optativos": 6,
+            "asignaturas": [2027641, 2025196, 2027631, 2027309, 2027632, 2027643, 2016740]
+          }
+        ]
+      },
+      {
+        "nombre": "Libre Elección",
+        "creditos": 28,
+        "agrupacion": [
+          {
+            "nombre": "Libre Elección",
+            "obligatorios": 0,
+            "optativos": 28,
+            "asignaturas": null,
+            "urltarget": "~/wwwroot/sample-data/libreEleccion.json"
+          }
+        ]
+      },
+      {
+        "nombre": "Trabajo de Grado",
+        "creditos": 8,
+        "agrupacion": [
+          {
+            "nombre": "Trabajo de Grado",
+            "obligatorios": 8,
+            "optativos": 0,
+            "asignaturas": [2027633, 2027634, 2027635]
+          }
+        ]
+      }
+    ]
+  }
+]

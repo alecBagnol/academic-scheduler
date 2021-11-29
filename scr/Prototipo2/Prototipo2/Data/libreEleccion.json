@@ -1,0 +1,2669 @@
+﻿[
+  {
+    "codigo": "2028286",
+    "asignatura": "Algorithmic trading",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026732",
+    "asignatura": "Análisis de datos funcionales",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018404",
+    "asignatura": "Análisis sensorial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2011302",
+    "asignatura": "Asignatura por convenio con Universidad de los Andes I - PREGRADO",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018776",
+    "asignatura": "Biodiversidad y ecosistemas en las regiones naturales de Colombia",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "1000010-B",
+    "asignatura": "Biología molecular y celular",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020823",
+    "asignatura": "Bioquímica",
+    "creditos": 5,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025197",
+    "asignatura": "Cartografía y SIG aplicados al estudio de la biodiversidad",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027223",
+    "asignatura": "Corso intensivo di lingua italiana i internazionalizzazione",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027149",
+    "asignatura": "Deporte clase",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020915",
+    "asignatura": "Diseño de experimentos aplicado",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018793",
+    "asignatura": "Ecología de ríos y humedales",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027213",
+    "asignatura": "Epigenética",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024643",
+    "asignatura": "Estadística Genómica",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018617",
+    "asignatura": "Estadística matemática",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024026",
+    "asignatura": "Ética y responsabilidad social empresarial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026053",
+    "asignatura": "Français Intensif I - Internationalisation",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027096",
+    "asignatura": "Français intensif II - internationalisation",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027534",
+    "asignatura": "Genómica",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024239",
+    "asignatura": "Gestión de ventas integral",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022983",
+    "asignatura": "Gestión pública",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2016379",
+    "asignatura": "Inferencia estadística",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026054",
+    "asignatura": "Inglés Intensivo I (Intensive English I)",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026055",
+    "asignatura": "Inglés Intensivo II (Intensive English II)",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026056",
+    "asignatura": "Inglés Intensivo III (Intensive English III)",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018808",
+    "asignatura": "Inmunología",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026057",
+    "asignatura": "Intensive english I - Internationalization",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026058",
+    "asignatura": "Intensivkurs Deutsch I - Internationalisierung",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027101",
+    "asignatura": "Intensivkurs deutsch II - internationalisierung",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2011183",
+    "asignatura": "Intercambio academico internacional",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024236",
+    "asignatura": "La calidad de la gestión en las operaciones de servicio",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020922",
+    "asignatura": "Métodos de regresión",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020933",
+    "asignatura": "Métodos estadísticos aplicados",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018816",
+    "asignatura": "Modelación de sistemas biológicos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018623",
+    "asignatura": "Modelos lineales generalizados",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025198",
+    "asignatura": "Plantas y cultivos tradicionales en el neotrópico",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026065",
+    "asignatura": "Português Intensivo I - Internacionalização",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027119",
+    "asignatura": "Português intensivo ii - internacionalização",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000030-B",
+    "asignatura": "Principios de química orgánica",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015178",
+    "asignatura": "Probabilidad",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000013-B",
+    "asignatura": "Probabilidad y estadística fundamental",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2019451",
+    "asignatura": "Procesamiento de Alimentos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022993",
+    "asignatura": "Productividad industrial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018833",
+    "asignatura": "Sistemática molecular",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016788",
+    "asignatura": "Tecnología Digital",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018627",
+    "asignatura": "Teoria de diseño de experimentos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018628",
+    "asignatura": "Teoria de estadistica bayesiana",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018632",
+    "asignatura": "Teoria de probabilidad",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018633",
+    "asignatura": "Teoria de procesos estocasticos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018626",
+    "asignatura": "Teoría de series de tiempo univariadas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025706",
+    "asignatura": "Tópicos de teoría de la información",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018846",
+    "asignatura": "Tópicos selectos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026533",
+    "asignatura": "Beatles y algo más: música, cultura y sociedad (1960-75)",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027224",
+    "asignatura": "Corso intensivo di lingua italiana ii internazionalizzazione",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016907",
+    "asignatura": "Cuerpo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018801",
+    "asignatura": "Fisiología de las adaptaciones y estrés en plantas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027100",
+    "asignatura": "Intensive english II - internationalization",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018123",
+    "asignatura": "Música y mito clásico",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016139",
+    "asignatura": "Música y sociedad en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016873",
+    "asignatura": "Seminario Arte y Educación",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016905",
+    "asignatura": "Técnicas Fotográficas Experimentales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016378",
+    "asignatura": "Álgebra matricial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018614",
+    "asignatura": "Analisis de datos categoricos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023822",
+    "asignatura": "Análisis demográfico",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025163",
+    "asignatura": "Aplicaciones de la sistemática filogenética",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028634",
+    "asignatura": "Beyond research",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000012-B",
+    "asignatura": "Bioestadística fundamental",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024826",
+    "asignatura": "Biofìsica de membranas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018779",
+    "asignatura": "Biología de la conservación",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2017524",
+    "asignatura": "Biología del Desarrollo",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2017774",
+    "asignatura": "Biología evolutiva",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017776",
+    "asignatura": "Ciencias de la tierra",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018616",
+    "asignatura": "Demografia Matematica",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018794",
+    "asignatura": "Ecología del paisaje",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018795",
+    "asignatura": "Ecología evolutiva",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016367",
+    "asignatura": "Estadística espacial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000014-B",
+    "asignatura": "Estadística social fundamental",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016661",
+    "asignatura": "Herramientas computacionales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018809",
+    "asignatura": "Interacciones moleculares planta-microorganismo",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2016325",
+    "asignatura": "Minería de datos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018602",
+    "asignatura": "Modelos lineales generalizados y multinivel",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2019082",
+    "asignatura": "Modelos matemáticos I",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2018817",
+    "asignatura": "Neurobiología de la transducción sensorial",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023214",
+    "asignatura": "Principios de bioquímica",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016339",
+    "asignatura": "Procesos estocásticos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020930",
+    "asignatura": "Series de tiempo multivariadas aplicadas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2016370",
+    "asignatura": "Series de tiempo univariadas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018835",
+    "asignatura": "Taller de publicaciones",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018842",
+    "asignatura": "Temas especiales",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2020458",
+    "asignatura": "Temas selectos en quimica teórica",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018630",
+    "asignatura": "Teoria de estadistica no parametrica",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018631",
+    "asignatura": "Teoria de muestreo",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018634",
+    "asignatura": "Teoria estadistica multivariada",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018636",
+    "asignatura": "Topicos avanzados de control de calidad",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026958",
+    "asignatura": "Tópicos avanzados de estadística",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026925",
+    "asignatura": "Tópicos avanzados de estadística I",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027625",
+    "asignatura": "Tópicos especiales en aplicaciones de la estadística",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025977",
+    "asignatura": "Cátedra Homero Cuevas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015394",
+    "asignatura": "Derecho Tributario",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022300",
+    "asignatura": "Historia Sociocultural de Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021483",
+    "asignatura": "Psicoanálisis y cultura",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015484",
+    "asignatura": "Textolingüística",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015421",
+    "asignatura": "Contratación internacional",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015429",
+    "asignatura": "Estado y Economía",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027081",
+    "asignatura": "Bioinformatica para ciencias omicas",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023478",
+    "asignatura": "Contexto bioseguridad",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024774",
+    "asignatura": "Medicina Social y Salud Colectiva: fundamentos conceptuales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028055",
+    "asignatura": "Acercamiento a los estudios de fronteras",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028448",
+    "asignatura": "Agrobiodiversidad",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024279",
+    "asignatura": "Agujeros negros y maquinas del tiempo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022615",
+    "asignatura": "Alemán I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022616",
+    "asignatura": "Alemán II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022617",
+    "asignatura": "Alemán III",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028684",
+    "asignatura": "Alternativas de aprendizaje autónomo en la educación superior",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022160",
+    "asignatura": "Amazonia y otras selvas ecuatoriales: conflicto y desarrollo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021514",
+    "asignatura": "Amenaza, riesgo y desarrollo",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027725",
+    "asignatura": "América latina y la teología política",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028683",
+    "asignatura": "Análisis de la política criminal colombiana desde la resocialización y el pospenado",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028057",
+    "asignatura": "Análisis de políticas públicas y ciencias económicas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028580",
+    "asignatura": "Análísis de procesos de planeación pública",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028058",
+    "asignatura": "Análisis estratégico de información para políticas públicas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027248",
+    "asignatura": "Antonio Gramsci: Subalternidad, Hegemonía y Autonomía",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028576",
+    "asignatura": "Antropología crítica de las transiciones políticas: cotidianidad y construcción de la experiencia.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025406",
+    "asignatura": "Apreciación e historia del arte",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022166",
+    "asignatura": "Arte rupestre muisca",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2012698",
+    "asignatura": "Asignatura por convenio con Universidad de los Andes II - PREGRADO",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021140",
+    "asignatura": "Astronomía para todos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028005",
+    "asignatura": "Auditoria de tecnología de información",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021813",
+    "asignatura": "Auditoria en entidades de salud",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021814",
+    "asignatura": "Auditoría tributaria",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028426",
+    "asignatura": "Autoorganización del aprendizaje y educación autodirigida",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026826",
+    "asignatura": "Autoras latinoamericanas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028674",
+    "asignatura": "Biofísica para todos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024149",
+    "asignatura": "Bioinvasiones",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017784",
+    "asignatura": "Biología de arañas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2017787",
+    "asignatura": "Biología de escorpiones",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021146",
+    "asignatura": "Biologia del comportamiento animal y humano",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017789",
+    "asignatura": "Biología y comportamiento de abejas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021147",
+    "asignatura": "Biotecnologia para no biotecnologos",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022287",
+    "asignatura": "Cátedra Augusto Ángel Maya",
+    "creditos": 1,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000109-B",
+    "asignatura": "Cátedra colombiana: Ciudadanía y lucha contra la corrupción",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021143",
+    "asignatura": "Cátedra de comercio, crisis y negocios internacionales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021770",
+    "asignatura": "Cátedra de derecho para estudiantes de otras carreras",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028881",
+    "asignatura": "Cátedra de Facultad Darío Mesa Chica",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027992",
+    "asignatura": "Cátedra de gestión y organizaciones",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028932",
+    "asignatura": "Cátedra empresarial normalización y calidad",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028700",
+    "asignatura": "Cátedra Hipatia: Biodiversidad y territorio en el post 2020",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028564",
+    "asignatura": "Catedra hipatia: ciencias para la Paz",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028394",
+    "asignatura": "Cátedra Hipatia: Mujeres de Ciencia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028960",
+    "asignatura": "Cátedra Jorge Eliecer Gaitán: ¡Pido la palabra!: internet y libertad de expresión: retos y desafíos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2029066",
+    "asignatura": "Cátedra José Celestino Mutis: Retos y oportunidades de la producción en el campo colombiano",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2029067",
+    "asignatura": "Cátedra Manuel Ancízar: Adulto Mayor: envejecimiento activo y saludable",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026034",
+    "asignatura": "Cátedra muisca",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "1000102-B",
+    "asignatura": "Cátedra Nacional de construcción de paz",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000089-B",
+    "asignatura": "Cátedra nacional de inducción y preparación para la vida universitaria",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000110-B",
+    "asignatura": "Cátedra nacional de juventud",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000123-B",
+    "asignatura": "Cátedra nacional ética profesional interdisciplinar: una aproximación desde los retos de ciudadanía",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000121-B",
+    "asignatura": "Cátedra nacional Gerardo Molina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000124-B",
+    "asignatura": "Cátedra nacional neurociencia para todes",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000100-B",
+    "asignatura": "Cátedra Nacional: Rayos de sol para días de lluvia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "1000122-B",
+    "asignatura": "Cátedra nacional transformación digital",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028643",
+    "asignatura": "Cátedra Pinsus Julio Carrizosa",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026621",
+    "asignatura": "Cátedra Turca: Historia y cultura",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028578",
+    "asignatura": "China y Estados Unidos en la crisis del sistema mundo capitalista",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021758",
+    "asignatura": "Chino I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021760",
+    "asignatura": "Chino II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021141",
+    "asignatura": "Ciencia, tecnología y desarrollo",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027219",
+    "asignatura": "Ciudad formal y ciudad informal. Segregación socio-espacial en Bogotá.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016133",
+    "asignatura": "Ciudad, hábitat y vivienda",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016142",
+    "asignatura": "Ciudad y medio ambiente sustentable",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027082",
+    "asignatura": "Ciudades, geopolítica y relaciones internacionales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021142",
+    "asignatura": "Clima y diversidad de clima de Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028571",
+    "asignatura": "Clínica jurídica: litigio estratégico",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017791",
+    "asignatura": "Comunicación animal",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026204",
+    "asignatura": "Comunicación, arte y educación",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028761",
+    "asignatura": "Configuración económica del estado social de derecho",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027985",
+    "asignatura": "Conflicto, tierra y movilización social en Colombia.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028290",
+    "asignatura": "Cooperación internacional al desarrollo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021152",
+    "asignatura": "Cuántica para todos y para todo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023913",
+    "asignatura": "Cuerpo y marcas de goce",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017794",
+    "asignatura": "Cultivo de tejidos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027182",
+    "asignatura": "Cultura política en Colombia para el posacuerdo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027708",
+    "asignatura": "Curso de lengua embera",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028803",
+    "asignatura": "Curso: Ecología(s) política(s) desde el Sur.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028682",
+    "asignatura": "Debates sobre el desarrollo, ambiente y paz en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027938",
+    "asignatura": "Del conflicto armado a la construcción de paz",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024033",
+    "asignatura": "Demografia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026702",
+    "asignatura": "Derecho agrario",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2018224",
+    "asignatura": "Derecho del mercado de capitales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028615",
+    "asignatura": "Derecho, ordenamiento del territorio y urbanismo",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016206",
+    "asignatura": "Derecho, sociedad y crítica decolonial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028018",
+    "asignatura": "Discurso y lenguajes para el análisis político",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022180",
+    "asignatura": "Diseño, arte e ideología",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026276",
+    "asignatura": "Diseño e innovación sostenible y apropiable",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022288",
+    "asignatura": "Diseño y medio ambiente",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027094",
+    "asignatura": "Ecología política latinoamericana, institucionalidad y repertorios de acción social.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028421",
+    "asignatura": "Ecologías (política, feminista, social) y alternativas al desarrollo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028240",
+    "asignatura": "Economía, ambiente y alternativas al desarrollo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028041",
+    "asignatura": "Economía experimental y del comportamiento",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028410",
+    "asignatura": "Economía postkeynesiana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026785",
+    "asignatura": "El derecho fundamental de libertad religiosa",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016135",
+    "asignatura": "El hábitat, el entorno de lo urbano, la salud y la vivienda",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2015633",
+    "asignatura": "El oscuro objeto del deseo en la perversión y en la histeria",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024794",
+    "asignatura": "El Yo, el doble y otros Monstruos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025336",
+    "asignatura": "Electiva en lengua Coreana I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025814",
+    "asignatura": "Electiva en lengua Coreana II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028298",
+    "asignatura": "Emociones y política",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027941",
+    "asignatura": "En el interregno de la ilustración y romanticismo. los ecos de frankenstein",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021154",
+    "asignatura": "Espacio y poder en América Latina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028400",
+    "asignatura": "Estado, cultura y resistencia en América Latina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028593",
+    "asignatura": "Estructuracion y puesta en marcha de startups y negocios innovadores",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027942",
+    "asignatura": "Estudios humano animal",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2017803",
+    "asignatura": "Etnobotánica",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028042",
+    "asignatura": "Evaluación de impacto",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024999",
+    "asignatura": "Fiestas populares, carnaval, sociedad y arte",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025998",
+    "asignatura": "Filosofía antigua I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026000",
+    "asignatura": "Filosofía antigua II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025999",
+    "asignatura": "Filosofía contemporánea I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025997",
+    "asignatura": "Filosofía contemporánea II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021849",
+    "asignatura": "Filosofía de la Mente",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024075",
+    "asignatura": "Filosofía de la Psicología",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026001",
+    "asignatura": "Filosofía moderna I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024076",
+    "asignatura": "Filosofía Social",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024077",
+    "asignatura": "Filosofía y Literatura",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022625",
+    "asignatura": "Francés I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022626",
+    "asignatura": "Francés II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022627",
+    "asignatura": "Francés III",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026739",
+    "asignatura": "Fundamentos de gobierno urbano",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2017810",
+    "asignatura": "Fundamentos de palinología básica y aplicada",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028577",
+    "asignatura": "Fundamentos de política social",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028209",
+    "asignatura": "Género y economía",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028418",
+    "asignatura": "Género y paz territorial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028914",
+    "asignatura": "Géneros, feminismos y diversidades UN",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028680",
+    "asignatura": "Génesis del ordenamiento y los límites fronterizos con la ciudad",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2020994",
+    "asignatura": "Genetica de insectos de interes economico",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027415",
+    "asignatura": "Gobernar una ciudad",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026574",
+    "asignatura": "Gobierno y desarrollo territorial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "1000075-B",
+    "asignatura": "Gráfica interactiva",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023234",
+    "asignatura": "Griego Electivo I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023235",
+    "asignatura": "Griego Electivo II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024981",
+    "asignatura": "Hamlet y el deseo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028447",
+    "asignatura": "Hegemonía y populismo en la obra de Ernesto Laclau y Chantal Mouffe",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028759",
+    "asignatura": "Herramientas para politólogos(as) educadores(as) aula-trabajo comunidades-coordinación de equipos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028422",
+    "asignatura": "Herramientas y practicas de gestión pública en la planificacion territorial colombiana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026743",
+    "asignatura": "Historia e identidad de la medicina y las profesiones de la salud",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022206",
+    "asignatura": "Ilustración infantil",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028461",
+    "asignatura": "Innovación en la gerencia pública",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2029060",
+    "asignatura": "Integración social de migrantes en América Latina: gestión y desafíos en contextos de racialización",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028496",
+    "asignatura": "Inteligencia artificial para médicos",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026630",
+    "asignatura": "Intercambio académico internacional - II",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026631",
+    "asignatura": "Intercambio académico internacional - II prórroga",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2014269",
+    "asignatura": "Intercambio academico internacional prorroga",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2011283",
+    "asignatura": "Intercambio Académico Nacional estudiante de PREGRADO",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2014290",
+    "asignatura": "Intercambio Académico Nacional estudiante de PREGRADO - Prórroga",
+    "creditos": 0,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023216",
+    "asignatura": "Introducción a la astronomía",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024283",
+    "asignatura": "Introducción a la Biofísica Celular",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026253",
+    "asignatura": "Introduccion a la biologia de insectos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025981",
+    "asignatura": "Introducción a la cultura contemporánea de alemania",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025053",
+    "asignatura": "Introducción a la cultura coreana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028898",
+    "asignatura": "Introducción a la Econometría Bayesiana",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028692",
+    "asignatura": "Introducción a la economía del comportamiento para el diseño de políticas públicas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027728",
+    "asignatura": "Introducción a las migraciones internacionales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2016136",
+    "asignatura": "Introducción a los estudios urbanos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016137",
+    "asignatura": "Introducción a los indicadores económicos-sociales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024337",
+    "asignatura": "Introducción a los modelos de equilibrio general aplicado",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025063",
+    "asignatura": "Introducción al viaje espacial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027825",
+    "asignatura": "Investigación acción y sistematización de experiencias",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026987",
+    "asignatura": "Investigación social aplicada, perspectivas y prácticas interdisciplinarias.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2029061",
+    "asignatura": "Investigar la ruralidad:campesinos, mujeres, trabajadores rurales. perspectiva latinoamericana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022630",
+    "asignatura": "Italiano I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022631",
+    "asignatura": "Italiano II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022632",
+    "asignatura": "Italiano III",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021471",
+    "asignatura": "Japonés I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021472",
+    "asignatura": "Japonés II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021473",
+    "asignatura": "Japonés III",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028673",
+    "asignatura": "Justicia para la paz, justicia transicional y SIVJRNR",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028704",
+    "asignatura": "Justicia y movimientos sociales en América Latina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023918",
+    "asignatura": "La angustia en la sociedad contemporánea",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023919",
+    "asignatura": "La clínica del caso",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2029046",
+    "asignatura": "La desaparición y búsqueda de personas en el contexto y en razón del conflicto armado en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028036",
+    "asignatura": "La dimensión espacial del capital: la economía política de la tenencia de la tierra",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027041",
+    "asignatura": "La esquizofrenia:del trastorno a la estructura",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027253",
+    "asignatura": "La madera sus dimensiones plásticas y estéticas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028188",
+    "asignatura": "Las artes en América Latina: Orígenes y tradiciones",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026611",
+    "asignatura": "Las industrias creativas y su visión desde el derecho de autor y los derechos conexos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028301",
+    "asignatura": "Las texturas de los silencios lectura feminista de la presencia y ausencia de palabra en contexto",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023238",
+    "asignatura": "Latín Electivo I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023239",
+    "asignatura": "Latín Electivo II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024397",
+    "asignatura": "LE ETICA I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024401",
+    "asignatura": "LE FILOSOFIA MODERNA",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024399",
+    "asignatura": "LE Filosofía Politica I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028865",
+    "asignatura": "Leer para la vida",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027240",
+    "asignatura": "Lengua de señas colombiana, nivel bàsico",
+    "creditos": 1,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023240",
+    "asignatura": "Lengua Inga",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023241",
+    "asignatura": "Lengua y Cultura Wayuu I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016253",
+    "asignatura": "Lingüística Italiana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022221",
+    "asignatura": "Literatura y cinematografia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2025655",
+    "asignatura": "Logística y cadena de abastecimiento",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028585",
+    "asignatura": "Los objetivos de desarrollo sostenible y la cooperación internacional",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028900",
+    "asignatura": "Los sueños de la razón: gabinetes de monstruos y otras criaturas oscuras",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028812",
+    "asignatura": "Luchas étnicas y políticas públicas en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023218",
+    "asignatura": "Mecánica celeste",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028888",
+    "asignatura": "Mediación y paz",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027191",
+    "asignatura": "Medios de comunicación, política criminal y justicia penal",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026941",
+    "asignatura": "Mercadeo agrario y alimentario",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028600",
+    "asignatura": "Metodologías cualitativas para el análisis de la ruralidad colombiana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028804",
+    "asignatura": "Metodologías, herramientas e indicadores para políticas públicas.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028601",
+    "asignatura": "Metodologías y herramientas de investigación socioterritorial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028602",
+    "asignatura": "Metodologías y herramientas para análisis político- coyuntura latinoamericana pensamiento crítico",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028303",
+    "asignatura": "Métodos cuantitativos para la Ciencia Política",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024284",
+    "asignatura": "Metodos para el estudio del comportamiento animal",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027422",
+    "asignatura": "Microeconometria",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028292",
+    "asignatura": "Migraciones internacionales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027734",
+    "asignatura": "Montaje teatral",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026566",
+    "asignatura": "Moot courts training",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022225",
+    "asignatura": "Movilidad y transporte urbano",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026688",
+    "asignatura": "Movimientos juveniles estudiantiles actuales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024006",
+    "asignatura": "Muerte, duelo y venganza",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021515",
+    "asignatura": "Museos",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026539",
+    "asignatura": "Museos: Academia y sociedad",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027394",
+    "asignatura": "Música y política",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024994",
+    "asignatura": "Nanotecnología y Medicina",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2022229",
+    "asignatura": "Narración gráfica",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024221",
+    "asignatura": "Nasa yuwe y pensamiento nasa",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028288",
+    "asignatura": "Nasa Yuwe y pensamiento Nasa II",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028807",
+    "asignatura": "Naturaleza, género y decolonialidad en América Latina a través de la literatura",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015937",
+    "asignatura": "Neurofisiologia del Desarrollo I",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2016029",
+    "asignatura": "Neurofisiologia del Desarrollo II",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028427",
+    "asignatura": "Nuevos mapas de las políticas públicas culturales en América Latina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024481",
+    "asignatura": "NUEVOS Y VIEJOS CONFLICTOS EN EL ORDEN INTERNACIONAL TRAS EL FIN DE LA GUERRA FRÍA",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028453",
+    "asignatura": "Opinión pública y campañas electorales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028705",
+    "asignatura": "Opticas interseccionales en teorías, investigación y praxis social.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028006",
+    "asignatura": "Organización industrial moderna",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027957",
+    "asignatura": "Orquesta universitaria I",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028430",
+    "asignatura": "Participación popular y construcción de lo común en la territorialización de la paz en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027718",
+    "asignatura": "Paz todo un camino por hacer",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028686",
+    "asignatura": "Pensamiento crítico y propuestas decoloniales de América Latina y el Caribe",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025665",
+    "asignatura": "Pensamiento fotográfico",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028679",
+    "asignatura": "Perspectivas de la paz territorial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027737",
+    "asignatura": "Perspectivas feministas sobre la violencia y las transiciones políticas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027973",
+    "asignatura": "Política fiscal y sistema tributario: el desafío de lograr la equidad en el contexto del posacuerdo",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028431",
+    "asignatura": "Políticas públicas, género y feminismos",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028068",
+    "asignatura": "Políticas públicas y derecho a la ciudad en América Latina",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021478",
+    "asignatura": "Portugues I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021479",
+    "asignatura": "Portugues II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021480",
+    "asignatura": "Portugués III",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027818",
+    "asignatura": "Prácticas políticas y constitución de memorias desde la cultura",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2027255",
+    "asignatura": "Problemas internacionales actuales",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2021840",
+    "asignatura": "Procedimiento tributario",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026991",
+    "asignatura": "Procesos de postconflicto y construcción de paz en África",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028412",
+    "asignatura": "Producción de leguminosas (arveja y frijol) en sistemas de cultivo con maíz.",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028302",
+    "asignatura": "Protección nacional e internacional de los derechos de las mujeres",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024008",
+    "asignatura": "Psicoanálisis, sujeto y problemáticas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021485",
+    "asignatura": "Psicoanálisis y psicoterápias",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2027396",
+    "asignatura": "Raíces griegas y latinas del español",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028046",
+    "asignatura": "Reforma al Régimen Electoral Colombiano. Alcances y Perspectivas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028069",
+    "asignatura": "Reforma política, apertura democrática y paz en Colombia",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028714",
+    "asignatura": "Relaciones internacionales en el Este Asiático",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025419",
+    "asignatura": "Resistencia a insecticidas",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026560",
+    "asignatura": "Riesgo de crédito",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2026311",
+    "asignatura": "Riesgos de origen hidrometeorológico en Colombia",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028432",
+    "asignatura": "Riesgos emergentes en el ecosistema empresarial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021763",
+    "asignatura": "Ruso I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024548",
+    "asignatura": "SEMANALISIS - Relación entre semiótica y psicoanálisis-",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028085",
+    "asignatura": "Semillero de investigación salud, medicina y capitalismo",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2026834",
+    "asignatura": "Seminario: Ciudades, industrias y cadenas mercantiles globales",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2021860",
+    "asignatura": "Seminario de arquitectura latinoamericana",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2022915",
+    "asignatura": "Seminario de arte contemporáneo",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2025174",
+    "asignatura": "Seminario de economía mundial",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028708",
+    "asignatura": "Seminario: ¿Era post covid o una nueva normalidad? Un análisis desde la Ciencia Política",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028300",
+    "asignatura": "Seminario sobre economía del cambio climático, áreas metropolitanas y desastres naturales.",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024124",
+    "asignatura": "Sensibilidad y pensamiento cinematografico",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024476",
+    "asignatura": "SEXUALIDAD HUMANA",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2024730",
+    "asignatura": "Sistemas de Representación Precolombinos: Arte Rupestre",
+    "creditos": 4,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2028073",
+    "asignatura": "Sociología política contemporánea (autor@s latinoamerican@s)",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2028011",
+    "asignatura": "Teoría de la acción política antisistémica",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2024078",
+    "asignatura": "Teoría del Sujeto",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": false
+  },
+  {
+    "codigo": "2023518",
+    "asignatura": "Toxicologia de la farmacodependencia",
+    "creditos": 2,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015725",
+    "asignatura": "Turco I",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2015732",
+    "asignatura": "Turco II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  },
+  {
+    "codigo": "2023243",
+    "asignatura": "Uitoto II",
+    "creditos": 3,
+    "componente": "Libre elección",
+    "disponible": true
+  }
+]
